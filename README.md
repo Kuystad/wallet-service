@@ -6,14 +6,14 @@ REST API сервис для управления балансом кошель�
 
 Технологический стек
 
-Java 17
-Spring Boot
-Spring Web
-Spring Data JPA
-PostgreSQL
-Liquibase
-Docker / Docker Compose
-JUnit
+Java 17;
+Spring Boot;
+Spring Web;
+Spring Data JPA;
+PostgreSQL;
+Liquibase;
+Docker / Docker Compose;
+
 
 Архитектура проекта
 
