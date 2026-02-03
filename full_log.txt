@@ -1,0 +1,3 @@
+docker: Error response from daemon: container 49141c445952f72cac5ed6a81ece99aec4fa32796a5fe03cc940756c4a996d6f not attached to default bridge network
+
+Run 'docker run --help' for more information
